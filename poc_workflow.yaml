@@ -1,4 +1,4 @@
-name: Gatsbyy
+name: Gatsby
 
 on:
   pull_request:
